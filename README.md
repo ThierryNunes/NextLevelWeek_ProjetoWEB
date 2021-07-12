@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/DanielObara/NLW-1.0/blob/master/.github/logo.svg" width="250px" />
-</h1>
-
 <h4 align="center"> 
 	:heavy_check_mark:  NextLevelWeek 🚀 Done! :heavy_check_mark:
 </h4>
