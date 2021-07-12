@@ -24,7 +24,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ThierryNunes/NextLevelWeek_ProjetoWEB
+$ git clone https://github.com/ThierryNunes/nlw-02-proffy
 
 # Go into the repository
 $ cd server
@@ -42,7 +42,7 @@ $ npm run dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ThierryNunes/NextLevelWeek_ProjetoWEB
+$ git clone https://github.com/ThierryNunes/nlw-02-proffy
 
 # Go into the repository
 $ cd web
